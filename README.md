@@ -4,7 +4,7 @@ Always growing as an iOS developer, but also interested in branching out to diff
 
 Currently exploring the power of:  
 Metal, SwiftUI, and Combine in iOS  
-&
-nodeJS, fastapi, & Flask in back-end tech
+&  
+nodeJS, fastapi, & Flask in back-end tech  
 &  
 the dreadful leetcode algos
