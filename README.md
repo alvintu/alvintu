@@ -1,4 +1,4 @@
-iOS developer  
+iOS Engineer  
 
 Currently exploring the usage of:  
 Metal, SwiftUI, and Combine in iOS  
